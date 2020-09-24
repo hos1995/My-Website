@@ -112,21 +112,21 @@ After setting up your site, you still need to go through the rest of the beautif
 
 <style>
   
-  .gs-section-01 h1 {
+  .gs-section-01 h4 {
       color: red}
       
   .gs-section-01 p {
       font-size: 30px;
   }
   
-  .gs-section-02 h2 {
+  .gs-section-02 h4 {
       color: green}
       
   .gs-section-02 p {
       font-size: 40px;
   }
   
-  .gs-section-03 h3 {
+  .gs-section-03 h4 {
       color: blue}
       
   .gs-section-03 p {
