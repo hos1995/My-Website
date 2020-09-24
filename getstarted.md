@@ -112,7 +112,7 @@ After setting up your site, you still need to go through the rest of the beautif
 
 <style>
   
-  .gs-section-01 h31 {
+  .gs-section-01 h1 {
       color: red}
       
   .gs-section-01 p {
