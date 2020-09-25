@@ -24,7 +24,7 @@ Here is a 40-second video showing how to get started, with the specific steps be
 
 <img src="../assets/img/install-steps.gif" style="width:100%;" alt="Installation steps" />
 
-<div class="gs-section-01">
+<div class="gs-section-01" markdown="1">
   
 ### 1. Fork (copy) the Beautiful Jekyll project 
 
@@ -32,13 +32,13 @@ Fork the [repository](https://github.com/daattali/beautiful-jekyll) by clicking 
 
 </div>
 
-<div class="gs-section-02">
+<div class="gs-section-02" markdown="1">
   
 ### 2. Rename the project to `yourusername.github.io`
 
 </div>
 
-<div class="gs-section-03">
+<div class="gs-section-03" markdown="1">
   
 ### 3. Customize settings in the `config.yml` file to personalize your website
 
