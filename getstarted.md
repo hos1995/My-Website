@@ -45,11 +45,11 @@ Fork the [repository](https://github.com/daattali/beautiful-jekyll) by clicking 
 
 That's it! You can now visit your shiny new website.
 
-</div>
-
 ---
 
 See how easy that is? I wasn't lying - it really can be done in two minutes.
+
+</div>
 
 <div class="get-started-wrap">
   <a class="btn btn-success btn-lg get-started-btn" href="https://github.com/daattali/beautiful-jekyll#readme">Get Started!</a>
@@ -112,21 +112,21 @@ After setting up your site, you still need to go through the rest of the beautif
 
 <style>
   
-  .gs-section-01 h3 {
+  .gs-section-01 h4 {
       color: red}
       
   .gs-section-01 p {
       font-size: 30px;
   }
   
-  .gs-section-02 h3 {
+  .gs-section-02 h4 {
       color: green}
       
   .gs-section-02 p {
       font-size: 40px;
   }
   
-  .gs-section-03 h3 {
+  .gs-section-03 h4 {
       color: blue}
       
   .gs-section-03 p {
