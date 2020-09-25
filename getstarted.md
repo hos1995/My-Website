@@ -25,16 +25,21 @@ Here is a 40-second video showing how to get started, with the specific steps be
 <img src="../assets/img/install-steps.gif" style="width:100%;" alt="Installation steps" />
 
 <div class="gs-section-01">
+  
 #### 1. Fork (copy) the Beautiful Jekyll project 
 
 Fork the [repository](https://github.com/daattali/beautiful-jekyll) by clicking the Fork button on the top right corner in GitHub.
+
 </div>
 
 <div class="gs-section-02">
+  
 #### 2. Rename the project to `yourusername.github.io`
+
 </div>
 
 <div class="gs-section-03">
+  
 #### 3. Customize settings in the `config.yml` file to personalize your website
 
 That's it! You can now visit your shiny new website.
@@ -42,6 +47,7 @@ That's it! You can now visit your shiny new website.
 ---
 
 See how easy that is? I wasn't lying - it really can be done in two minutes.
+
 </div>
 
 <div class="get-started-wrap">
