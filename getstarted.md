@@ -26,7 +26,7 @@ Here is a 40-second video showing how to get started, with the specific steps be
 
 <div class="gs-section-01">
   
-#### 1. Fork (copy) the Beautiful Jekyll project 
+###1. Fork (copy) the Beautiful Jekyll project 
 
 Fork the [repository](https://github.com/daattali/beautiful-jekyll) by clicking the Fork button on the top right corner in GitHub.
 
@@ -34,13 +34,13 @@ Fork the [repository](https://github.com/daattali/beautiful-jekyll) by clicking 
 
 <div class="gs-section-02">
   
-#### 2. Rename the project to `yourusername.github.io`
+### 2. Rename the project to `yourusername.github.io`
 
 </div>
 
 <div class="gs-section-03">
   
-#### 3. Customize settings in the `config.yml` file to personalize your website
+### 3. Customize settings in the `config.yml` file to personalize your website
 
 That's it! You can now visit your shiny new website.
 
@@ -111,21 +111,21 @@ After setting up your site, you still need to go through the rest of the beautif
 
 <style>
   
-  .gs-section-01 h4 {
+  .gs-section-01 h3 {
       color: red}
       
   .gs-section-01 p {
       font-size: 30px;
   }
   
-  .gs-section-02 h4 {
+  .gs-section-02 h3 {
       color: green}
       
   .gs-section-02 p {
       font-size: 40px;
   }
   
-  .gs-section-03 h4 {
+  .gs-section-03 h3 {
       color: blue}
       
   .gs-section-03 p {
